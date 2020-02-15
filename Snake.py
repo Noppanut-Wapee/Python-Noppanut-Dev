@@ -56,3 +56,5 @@ while True:
         w.addch(int(tail[0]), int(tail[1]), ' ')
 
     w.addch(int(snake[0][0]), int(snake[0][1]), curses.ACS_CKBOARD)
+
+    #ยังไม่สมบูรณ์
